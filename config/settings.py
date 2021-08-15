@@ -38,6 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'wedding', #local
+    'rest_framework', #third_party
 ]
 
 MIDDLEWARE = [
